@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3em015/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 明目良方
+  edition:
+    short: t
+  source:
+    repository: tls-texts
+    path: data/tls/KR3em015.xml
+hash: sha256:6eaef0994a1360613bb1d590321c47d2316bd6e2a427299477d6f8f069460f01
