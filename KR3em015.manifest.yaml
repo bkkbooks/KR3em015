@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3em015/v1
 canonical_location: https://kanripo.org/bkk/KR3em015/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
 metadata:
   title: 明目良方
   identifiers:
@@ -21,4 +21,4 @@ assets:
     filename: KR3em015_001.yaml
     hash: sha256:6eaef0994a1360613bb1d590321c47d2316bd6e2a427299477d6f8f069460f01
 table_of_contents: []
-hash: sha256:a3f6d8b0277c242ecddb4c5aacf5d2f4fe8afaa188184cbb5e5705d0d89bbe64
+hash: sha256:49f0703840aadb6a4a722cf174307d9cc3247788e6e58e2baf3e6f506a5bf724
